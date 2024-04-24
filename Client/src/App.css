@@ -1,0 +1,19 @@
+:root,
+body,
+#root,
+.main-app {
+  height: 100%;
+}
+
+.detail-header,
+.detail-footer {
+  padding: 10px;
+  gap: 10px;
+}
+
+.input-container {
+  min-width: 58ch;
+}
+.css-wfxp6t-MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+  outline: "none" !important;
+}
